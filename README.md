@@ -7,6 +7,6 @@ add something here to dev2
 
 add another here to dev2
 
-add to develop ��֧
+add to develop ·ÖÖ§
 
-clone develop branch directly
+clone develop branch directorly
